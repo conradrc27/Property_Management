@@ -3,6 +3,7 @@ import ListaInmobiliaria from "./components/views/ListaInmobiliaria";
 import { ThemeProvider as MuiThemeProvider } from '@material-ui/core/styles';
 import Grid from "@material-ui/core/Grid";
 import theme from "./theme/theme";
+
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import AppNavbar from "./components/layout/AppNavbar";
 
